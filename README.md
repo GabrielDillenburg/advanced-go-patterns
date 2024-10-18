@@ -13,7 +13,6 @@ Welcome to the **Advanced Go Patterns for Cloud-Native Applications** repository
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
     - [How to contribute:](#how-to-contribute)
-  - [License](#license)
   - [Blog](#blog)
 
 ## Introduction
@@ -77,9 +76,6 @@ I welcome contributions from the community! If you have a pattern you'd like to 
 4. Push to the branch (\`git push origin feature/your-feature\`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Blog
 
